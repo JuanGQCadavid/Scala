@@ -19,4 +19,4 @@ Although in Java you "implement" interfaces, in Scala you "extend" or "mix in"
 traits.
 ---
 
-Page 50
+Page 53.
