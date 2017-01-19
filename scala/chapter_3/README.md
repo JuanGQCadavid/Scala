@@ -15,8 +15,7 @@ Sort -> http://alvinalexander.com/scala/how-sort-scala-sequences-seq-list-array-
 tuples : page 49
 
 ---
-Although in Java you "implement" interfaces, in Scala you "extend" or "mix in"
-traits.
+Although in Java you "implement" interfaces, in Scala you "extend" or "mix in" traits.
 ---
 
 Page 53.
