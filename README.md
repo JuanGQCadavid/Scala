@@ -37,4 +37,4 @@ Scala programing Book's examples
   - [ ] GUI Programming
   - [ ] The SCells Spreadsheet
   
-  ![the Founding Father - cameronmcefee] (https://octodex.github.com/founding-father)
+  ![the Founding Father - cameronmcefee] (https://octodex.github.com/images/founding-father.jpg)
