@@ -36,3 +36,5 @@ Scala programing Book's examples
   - [ ] Combinator Parsing
   - [ ] GUI Programming
   - [ ] The SCells Spreadsheet
+  
+  ![the Founding Father - cameronmcefee] (https://octodex.github.com/founding-father)
